@@ -71,6 +71,7 @@ speller:
 
 translator:
   dictionary: terra_pinyin
+  prism: terra_ipa
   spelling_hints: 9
   preedit_format:
     - "xform/(^|[ '])?a(ng|gn)/$1AG/"	#ɑŋ

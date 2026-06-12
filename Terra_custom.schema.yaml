@@ -96,6 +96,7 @@ speller:
 
 translator:
   dictionary: terra_pinyin
+  prism: terra_custom
   spelling_hints: 9
   preedit_format:
     - xform (o)(ng)([-;/<,>\\]?) u$3$2
